@@ -1,2 +1,3 @@
 # COG403_Final_Project
-Final Project for COG403
+Sentiments from a Twitter Storm
+By Robin Medd and Shengye (Tony) Niu
